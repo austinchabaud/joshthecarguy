@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-scroll';
 import tw from 'twin.macro';
 import HeaderBase, {
 	NavLinks,
